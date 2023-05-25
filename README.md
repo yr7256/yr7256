@@ -8,7 +8,5 @@
 
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yr7256&show_icons=true&theme={theme})](https://github.com/yr7256/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yr7256&layout=compact&langs_count=8&hide=java)
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yr7256)](https://solved.ac/yr7256)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yr7256&layout=compact&langs_count=6&hide=java)
